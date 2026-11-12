@@ -227,6 +227,3 @@ jupyter notebook qaoa.ipynb
 - Aasia Bibi
 - Zoya Arooj
 
-## License
-
-Specify a license here (for example, MIT) before publishing.
